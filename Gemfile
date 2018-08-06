@@ -41,3 +41,7 @@ end
 group :test do
   gem 'minitest-spec-rails'
 end
+
+group :test do
+  gem 'pg'
+end
